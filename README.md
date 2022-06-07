@@ -1,2 +1,5 @@
 # social_network
-### PHP,Html,Css and MySql
+### project create in PHP,HTML,CSS,MySql
+#### simple social network : login and register
+####                         create posts,likes,edit profile
+                      
